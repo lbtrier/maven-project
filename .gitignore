@@ -1,1 +1,9 @@
 target
+server/.classpath
+server/.project
+server/.settings/
+webapp/.classpath
+webapp/.project
+webapp/.settings/
+.project
+.settings
